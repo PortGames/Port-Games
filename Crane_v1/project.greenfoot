@@ -1,5 +1,5 @@
 #Greenfoot project file
-class.Map.superclass=greenfoot.World
+class.Harbour.superclass=greenfoot.World
 mainWindow.height=1056
 mainWindow.width=1936
 mainWindow.x=-8
@@ -8,7 +8,7 @@ package.numDependencies=0
 package.numTargets=1
 project.charset=UTF-8
 target1.height=50
-target1.name=Map
+target1.name=Harbour
 target1.showInterface=false
 target1.type=ClassTarget
 target1.typeParameters=
@@ -16,4 +16,4 @@ target1.width=80
 target1.x=70
 target1.y=10
 version=2.6.0
-world.lastInstantiated=Map
+world.lastInstantiated=Harbour
