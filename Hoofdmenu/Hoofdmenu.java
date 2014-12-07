@@ -28,6 +28,15 @@ public class Hoofdmenu extends World
     private void prepare()
     {
         Kraan kraan = new Kraan();
-        addObject(kraan, 283, 192);
+        addObject(kraan, 400, 100);
+        
+        Helikopter helikopter = new Helikopter();
+        addObject(helikopter, 200, 100);
+        
+        Controlekamer controlekamer = new Controlekamer();
+        addObject(controlekamer, 200, 300);
+        
+        Beveiliging beveiliging = new Beveiliging();
+        addObject(beveiliging, 400, 300);
     }
 }
