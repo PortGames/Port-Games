@@ -1,9 +1,9 @@
 #Greenfoot project file
 class.Map.superclass=greenfoot.World
-mainWindow.height=916
-mainWindow.width=1456
-mainWindow.x=78
-mainWindow.y=-908
+mainWindow.height=744
+mainWindow.width=1382
+mainWindow.x=-8
+mainWindow.y=-8
 package.numDependencies=0
 package.numTargets=1
 project.charset=UTF-8
